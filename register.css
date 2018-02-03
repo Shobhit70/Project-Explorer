@@ -1,0 +1,102 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 7, 2017, 12:27:18 AM
+    Author     : shobhit pc
+*/
+body{
+    
+    background-color: #e8f3f8;
+    
+    
+    
+}
+form{
+    margin: 20px auto;
+    width: 320px;
+    color: steelblue;
+    
+    
+}
+input{
+    padding: 10px;
+    font-size: inherit;
+    
+}
+input[type="text"]
+{
+    display: block;
+    margin: 25px;
+    width: 100%;
+    border: 2px solid steelblue;
+    background: #FAF6D9;
+}
+input[type="email"]
+{
+    display: block;
+    margin: 25px;
+    width: 100%;
+    border: 2px solid steelblue;
+    background: #FAF6D9;
+}
+input[type="date"]
+{
+    display: block;
+    margin: 25px;
+    width: 100%;
+    border: 2px solid steelblue;
+    background: #FAF6D9;
+}
+input[type="password"]
+{
+    display: block;
+    margin: 25px;
+    width: 100%;
+    border: 2px solid steelblue;
+    background: #FAF6D9;
+}
+input[type="radio"]
+{
+   margin: 0 8px 25px 18px;
+   
+   
+   
+}
+.lab
+{
+    background-color: darkblue;
+}
+.lab1
+{
+    background-color: darkblue;
+}
+input[type="radio"]:first-child
+{
+   margin-left: 0;
+   
+   
+}
+input[type="submit"]{
+    background-color:#2ECC71;
+    width:344px;
+    height: 45px;
+    border-bottom: 4px solid #27AE60;
+    align:auto;
+     
+    
+}
+
+h1{
+    
+    font-family: cursive;
+    color: darkblue;
+}
+
+
+
+
+
+
